@@ -1,0 +1,79 @@
+h1, h2, body table {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+h1{
+     color: rgba(62, 3, 129, 0.884); 
+
+ }
+h2{
+    color: rgba(102, 8, 102, 0.76);    
+}
+h4{
+    color: rgb(57, 1, 90);
+}
+hr{
+    border: 0.1px solid rgba(130, 109, 148, 0.493);
+   
+}
+body{
+        color: rgba(77, 33, 114, 0.76);
+        text-align: center;
+        width: 900px;
+        height: auto;
+        letter-spacing: 0.15em;
+        border-radius: 60px;
+        border: 2px solid rgba(75, 4, 190, 0.171);
+        border-width:3px;  
+        margin: auto;
+        padding: 20px;
+    
+          
+    }
+    img{
+        border-radius: 100px;
+        }
+a:link{
+    color: rgb(133, 57, 116);
+    text-decoration: none;
+    font-size: 1rem;
+    letter-spacing: 0.3em;
+}
+a:visited{
+    color: rgba(92, 54, 83, 0.952);
+    font-size: 1rem;
+    text-decoration: none; 
+}
+a:hover{
+    color: rgba(70, 31, 243, 0.74); 
+    text-decoration: none;
+    font-size: 1.4rem;
+}
+
+table {
+    color: rgb(83, 2, 73);  
+text-decoration: none;
+  text-align: left;
+  font-size: 0.9rem;
+  letter-spacing: 0.02em;
+    border-collapse: collapse;
+    width: auto;
+    margin: auto;
+}
+td {
+    text-align: left;
+    padding: 10px;
+}
+tr:nth-child(even) {
+    background-color: #f2f2f2b4;}
+.minska{
+        font-size: 0.8rem;
+        width: 150px;
+}
+
+.bredd{
+    width: 250px;
+}
+.bredd2{
+    width: 400px;
+}
