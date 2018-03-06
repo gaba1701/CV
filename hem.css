@@ -18,20 +18,22 @@ hr{
 }
 body{
         color: rgba(77, 33, 114, 0.76);
-        text-align: center;
+        margin: auto !important;
+        text-align: center !important;
         width: 900px;
         height: auto;
         letter-spacing: 0.15em;
         border-radius: 60px;
         border: 2px solid rgba(75, 4, 190, 0.171);
-        border-width:3px;  
-        margin: auto;
+        border-width:3px;        
         padding: 20px;
+        
     
           
     }
     img{
         border-radius: 100px;
+  
         }
 a:link{
     color: rgb(133, 57, 116);
